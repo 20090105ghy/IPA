@@ -34,11 +34,11 @@
                <key>bundle-identifier</key>
                <string>com.tongbu.tui.4JYAX2VT5B</string>
                <key>bundle-version</key>
-               <string>应用版本</string>
+               <string>7.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>应用简介</string>
+               <string>正在安装中...</string>
                <key>title</key>
                <string>A4Player</string>
            </dict>
