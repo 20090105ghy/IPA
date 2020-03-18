@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://sh-download.weiyun.com/ftn_handler/6aeb9eeca082fb80b26a7b1f773f4208b3d545c4902b511a225e521aca9f93c8ade72adf31701bf9c73668e9eb21753ae9d1dcd5f9fa913f686162117eafcf4f/爱思助手%20-%20极速版_2.1.7.ipa?fname=爱思助手%20-%20极速版_2.1.7.ipa&from=30013&version=3.3.3.3</string>
+               </dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/20090105ghy/ipa/master/截屏2020-03-17%20下午1.23.04.png</string>
+				</dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                 <string>https://raw.githubusercontent.com/20090105ghy/ipa/master/截屏2020-03-17%20下午1.23.04.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.tongbu.tui.4JYAX2VT5B</string>
+               <key>bundle-version</key>
+               <string>应用版本</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>应用简介</string>
+               <key>title</key>
+               <string>A4Player</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
